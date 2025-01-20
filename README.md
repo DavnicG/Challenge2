@@ -7,7 +7,7 @@ Este es un programa de conversión de monedas que utiliza una API externa para o
 
 - Java 11 o superior.
 - Conexión a internet para acceder a la API de tasas de cambio.
-- 
+  
 ## Uso
 Al ejecutar el programa, se mostrará un menú interactivo con las siguientes opciones:
 
